@@ -1,5 +1,5 @@
 function text(content) 
-    SetTextFont(2)
+    SetTextFont(1)
     SetTextProportional(0)
     SetTextScale(1.9,1.9)
     SetTextEntry("STRING")
